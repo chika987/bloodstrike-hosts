@@ -1,0 +1,8 @@
+127.0.0.1 anti-cheat.bloodstrike.com
+127.0.0.1 report.bloodstrike.com
+127.0.0.1 log.bloodstrike.com
+127.0.0.1 tracking.bloodstrike.com
+127.0.0.1 monitor.bloodstrike.garena.com
+127.0.0.1 security.garena.com
+127.0.0.1 analytics.bloodstrike.com
+127.0.0.1 events.bloodstrike.com
